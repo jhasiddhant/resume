@@ -4,7 +4,6 @@
 		"label": "Student",
 		"picture": "https://avatars.githubusercontent.com/u/72513126?s=400&u=c2302789b74d79ac8e3960fd204aaea4a9e1619d&v=4",
 		"email": "2020kucp1094@iiitkota.ac.in",
-		"phone": "+919699814916",
 		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
 		"location": {
 			"address": "Kandivali East",
@@ -39,7 +38,7 @@
 		"institution": "Indian Institute of Information technology, kota",
 		"area": "Engineering",
 		"studyType": "Bachelor of Technology",
-		"startDate": "2020-12-02 //Date",
+		"startDate": "2020-12-02",
 		"courses": [
 			"Computer Science & Engineering"
 		]
